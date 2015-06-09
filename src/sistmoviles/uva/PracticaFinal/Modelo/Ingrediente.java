@@ -9,6 +9,7 @@ public class Ingrediente {
     private double hidratos;
     private double grasas;
     private double azucar;
+    private int prueba;
     
     public Ingrediente (String nombre, double calorias, double proteinas,
             double hidratos, double grasas, double azucar){
